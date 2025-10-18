@@ -11,3 +11,18 @@ $ sudo dnf install gcc git - fedora-based
 
 $ sudo pacman -S gcc git arch-based
 
+step 2:
+download the project repository
+
+$ git clone https://github.com/Nick-cpp/tux
+
+step 3:
+compilation
+
+$ cd tux/
+$ 
+
+step 4:
+program launch
+
+$ ./tux
