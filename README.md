@@ -1,4 +1,4 @@
-if you use arch by the way you can download this package on AUR
+if you use arch by the way you can download this package on AUR ( yay -S tux-colored )
 
 compilation from source code:
 
@@ -16,6 +16,7 @@ $ git clone https://github.com/Nick-cpp/tux
 
 step 3:
 compilation
+
 
 $ cd tux/
 $ g++ -std=c++17 "tux.cpp" -o tux
