@@ -25,4 +25,4 @@ $ sudo install -Dm755 tux "$pkgdir/usr/bin/tux"
 step 4:
 program launch
 
-$ ./tux
+$ tux
