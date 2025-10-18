@@ -7,8 +7,6 @@ you need installed GCC and git package ( Gnu Complier Collection )
 
 $ sudo apt install gcc git - debian-based
 
-$ sudo dnf install gcc git - fedora-based
-
 $ sudo pacman -S base-devel gcc git arch-based
 
 step 2:
