@@ -7,7 +7,7 @@ you need installed gcc and git package ( Gnu Complier Collection )
 
 $ sudo apt install gcc git - debian-based
 
-$ sudo pacman -S gcc git arch-based
+$ sudo pacman -S gcc git - arch-based
 
 step 2:
 download the project repository
