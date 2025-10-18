@@ -3,7 +3,7 @@ if you use arch by the way you can download this package on AUR ( yay -S tux-col
 compilation from source code:
 
 step 1:
-you need installed GCC and git package ( Gnu Complier Collection )
+you need installed gcc and git package ( Gnu Complier Collection )
 
 $ sudo apt install gcc git - debian-based
 
