@@ -15,7 +15,7 @@ download the project repository
 $ git clone https://github.com/Nick-cpp/tux
 
 step 3:
-compilation
+compilation & installation
 
 
 $ cd tux/
