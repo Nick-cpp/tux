@@ -22,7 +22,7 @@ $ cd tux/
 
 $ g++ -std=c++17 "tux.cpp" -o tux
 
-$ sudo install -Dm755 tux "$pkgdir/usr/bin/tux"
+$ sudo install -Dm755 tux /usr/bin/tux
 
 step 4:
 program launch
