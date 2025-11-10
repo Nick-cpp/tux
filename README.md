@@ -20,7 +20,7 @@ compilation & installation
 
 $ cd tux/
 
-$ g++ -std=c++17 "tux.cpp" -o tux
+$ g++ -std=c++17 tux.cpp -o tux
 
 $ sudo install -Dm755 tux /usr/bin/tux
 
